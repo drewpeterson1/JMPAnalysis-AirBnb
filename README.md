@@ -83,7 +83,7 @@ Null Hypothesis: μ = 150
 Alternative Hypothesis: μ > 150
 Assumptions Met: Random sample. Sample Size 375 is greater than minimum of 30.
 
-JMP Calculation – Hypothesis Test for One Mean 
+### JMP Calculation – Hypothesis Test for One Mean 
 
 <img width="700" alt="image" src="https://github.com/drewpeterson1/JMPAnalysis-AirBnb/assets/152465987/ee269327-ac4a-4a13-93ff-956b1d7dbe30">
 
