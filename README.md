@@ -2,17 +2,19 @@
 Analysis of AirBnb Prices using JMP Software
 
 Andrew Peterson
+
 Managerial Statistics
+
 Dataset: AirBnb
+
 Date: Summer A 2024
 
-Project Abstract:
-This project aims to present a statistical analysis of AirBnb prices across different cities. Findings planned to be shared in a digital artifact on Github. 
-
- 
-
+Project Abstract: This project aims to present a statistical analysis of AirBnb prices across different cities. Findings planned to be shared in a digital artifact on Github. 
+<img width="463" alt="image" src="https://github.com/drewpeterson1/JMPAnalysis-AirBnb/assets/152465987/7f633270-96c2-4b3c-b73e-d9f891f4c69d">
 Note on Data Quality: 
 The original data had 141 observations with price below $10 (1 in New York, 65 in Chicago, and 75 in Boston). For the purposes of this analysis, the price values below $10 were deemed bad data and excluded from this analysis. This is because prices below $10 appear unrealistic for an AirBnb and indicate that data may not be accurately reflect the actual market prices. 
+
+____________________________________________________________________________________________________________________________________________________________________
 
 Task 1: Compare AirBnb Price Distribution in New York and Boston
 
