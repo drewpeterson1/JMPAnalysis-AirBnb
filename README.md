@@ -34,8 +34,11 @@ Boston: Range of 140. IQR of 62. Standard Deviation is 161.88.
 Comparison: The overall range for NY prices is 10 times that in Boston. However, the IQR difference is much less pronounced due to the exclusion of outliers in the NY data. Boston has relatively less fluctuation in pricing as their standard deviation is 4 times less than New York.
 
 ### NEW YORK
- 
+<img width="500" alt="image" src="https://github.com/drewpeterson1/JMPAnalysis-AirBnb/assets/152465987/6440b102-b0a2-4e43-9271-d2de5dec9efb">
+
 ### BOSTON
+<img width="500" alt="image" src="https://github.com/drewpeterson1/JMPAnalysis-AirBnb/assets/152465987/096f631d-c695-4e4e-acf6-649f923d5149">
+
  
 ____________________________________________________________________________________________________________________________________________________________________
 
@@ -55,7 +58,8 @@ Conduct a Confidence Interval for One Mean to estimate the population mean price
 Assumptions Met: Random sample. Sample Size 375 is greater than minimum of 30.
 
 ### JMP Calculation – Confidence Interval for One Mean 
-  
+<img width="500" alt="image" src="https://github.com/drewpeterson1/JMPAnalysis-AirBnb/assets/152465987/bfa8146d-f7d0-4337-aa21-76aace49318f">
+
 
 ### Conclusion
 We are 95% confident that the true population mean price for an AirBnb in NY in December 2021 is between $144.31 and $177.18.
@@ -64,23 +68,24 @@ ________________________________________________________________________________
 
 ## Task 2B: New York Population Mean – Hypothesis Test
 
-Problem
+### Problem
 Is the population mean price for an AirBnb in New York in December 2021 greater than $150?
 
-Plan
+### Plan
 Data was randomly sampled from AirBnbs available for rent in December 2021. This data was compiled and aggregated from the website insideairbnb.com/get-the-data/. 
 
-Data
+### Data
 The data in this section is filtered to exclusively contain observations from NY. The main variable analyzed in this section is Price in USD (continuous numeric, price of renting the listed unit for 1 night). Parameter: μ = population mean price of an AirBnb in NY in December 2021.
 
-Analysis
+### Analysis
 Conduct a Hypothesis Test for One Mean to see if the population mean price for an AirBnb in NY in December 2021 is greater than $150. 
 Null Hypothesis: μ = 150
 Alternative Hypothesis: μ > 150
 Assumptions Met: Random sample. Sample Size 375 is greater than minimum of 30.
 
 JMP Calculation – Hypothesis Test for One Mean 
- 
+<img width="468" alt="image" src="https://github.com/drewpeterson1/JMPAnalysis-AirBnb/assets/152465987/ee269327-ac4a-4a13-93ff-956b1d7dbe30">
 
-Conclusion
+
+### Conclusion
 With an observed p-value of 0.0997 and t* Critical value of 1.6489, there is not enough evidence to reject the Null Hypothesis at alpha = 0.05. Therefore, there is not enough statistical evidence that the true population mean of AirBnbs in NY in December 2021 is greater than $150. Note however that if alpha = 0.10, this observed p-value would lead us to reject the Null Hypothesis, in favor of the Alternative Hypothesis. This indicates some evidence against the Null Hypothesis.
