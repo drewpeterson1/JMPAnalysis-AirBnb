@@ -2,10 +2,7 @@
 
 <img width="900" alt="image" src="https://github.com/drewpeterson1/JMPAnalysis-AirBnb/assets/152465987/7f633270-96c2-4b3c-b73e-d9f891f4c69d">
 
-Andrew Peterson
-Managerial Statistics
-Dataset: AirBnb
-Date: Summer A 2024
+Andrew Peterson | Managerial Statistics | AirBnb | UF MBA 2024
 
 ### Project Abstract: 
 This project aims to present a statistical analysis of AirBnb prices across different cities. Findings planned to be shared in a digital artifact on Github. 
