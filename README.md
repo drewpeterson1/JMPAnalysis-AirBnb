@@ -34,10 +34,10 @@ Boston: Range of 140. IQR of 62. Standard Deviation is 161.88.
 Comparison: The overall range for NY prices is 10 times that in Boston. However, the IQR difference is much less pronounced due to the exclusion of outliers in the NY data. Boston has relatively less fluctuation in pricing as their standard deviation is 4 times less than New York.
 
 ### NEW YORK
-<img width="500" alt="image" src="https://github.com/drewpeterson1/JMPAnalysis-AirBnb/assets/152465987/6440b102-b0a2-4e43-9271-d2de5dec9efb">
+<img width="700" alt="image" src="https://github.com/drewpeterson1/JMPAnalysis-AirBnb/assets/152465987/6440b102-b0a2-4e43-9271-d2de5dec9efb">
 
 ### BOSTON
-<img width="500" alt="image" src="https://github.com/drewpeterson1/JMPAnalysis-AirBnb/assets/152465987/096f631d-c695-4e4e-acf6-649f923d5149">
+<img width="700" alt="image" src="https://github.com/drewpeterson1/JMPAnalysis-AirBnb/assets/152465987/096f631d-c695-4e4e-acf6-649f923d5149">
 
  
 ____________________________________________________________________________________________________________________________________________________________________
@@ -58,7 +58,7 @@ Conduct a Confidence Interval for One Mean to estimate the population mean price
 Assumptions Met: Random sample. Sample Size 375 is greater than minimum of 30.
 
 ### JMP Calculation – Confidence Interval for One Mean 
-<img width="500" alt="image" src="https://github.com/drewpeterson1/JMPAnalysis-AirBnb/assets/152465987/bfa8146d-f7d0-4337-aa21-76aace49318f">
+<img width="700" alt="image" src="https://github.com/drewpeterson1/JMPAnalysis-AirBnb/assets/152465987/bfa8146d-f7d0-4337-aa21-76aace49318f">
 
 
 ### Conclusion
@@ -84,7 +84,8 @@ Alternative Hypothesis: μ > 150
 Assumptions Met: Random sample. Sample Size 375 is greater than minimum of 30.
 
 JMP Calculation – Hypothesis Test for One Mean 
-<img width="468" alt="image" src="https://github.com/drewpeterson1/JMPAnalysis-AirBnb/assets/152465987/ee269327-ac4a-4a13-93ff-956b1d7dbe30">
+
+<img width="700" alt="image" src="https://github.com/drewpeterson1/JMPAnalysis-AirBnb/assets/152465987/ee269327-ac4a-4a13-93ff-956b1d7dbe30">
 
 
 ### Conclusion
