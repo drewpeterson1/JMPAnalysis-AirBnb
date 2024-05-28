@@ -1,6 +1,6 @@
 # Analysis of AirBnb Prices using JMP Software
 
-<img width="600" alt="image" src="https://github.com/drewpeterson1/JMPAnalysis-AirBnb/assets/152465987/7f633270-96c2-4b3c-b73e-d9f891f4c69d">
+<img width="900" alt="image" src="https://github.com/drewpeterson1/JMPAnalysis-AirBnb/assets/152465987/7f633270-96c2-4b3c-b73e-d9f891f4c69d">
 
 Andrew Peterson
 
